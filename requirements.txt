@@ -1,0 +1,12 @@
+customtkinter
+diffusers
+huggingface-hub
+numpy
+Pillow
+requests
+tk
+tokenizers
+torch
+tqdm
+transformers
+accelerate
