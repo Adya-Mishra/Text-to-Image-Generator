@@ -12,7 +12,7 @@ This project is a Text to Image Generator app using the Stable Diffusion v1.4 mo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Adya-Mishra/Text-to-Image-Generator.git
+   git clone https://github.com/Adya-Mishra/Text-to-Image-Generator
    cd Text-to-Image-Generator
 
 2. Install the required dependencies:
